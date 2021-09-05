@@ -1,0 +1,46 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Thu Apr 12 14:33:40 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000004    program   0x00007c
+.config_2007_ASSIGNMENT 07M.O       code   0x002007    program   0x000002
+                   .org_2       code   0x002100    program   0x000008
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000004    0x000041      
+                            0x002007    0x002007      
+                            0x002100    0x002103      
+            67 out of 4359 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    LOOP1   0x000033    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                    LOOP2   0x000037    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                    again   0x000029    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                    delay   0x000033    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                     main   0x000012    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                     skip   0x00003e    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     main   0x000012    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                    again   0x000029    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                    LOOP1   0x000033    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                    delay   0x000033    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                    LOOP2   0x000037    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+                     skip   0x00003e    program     static G:\HW\FinishedAssignments\Assignment 07\Assignment 07m.asm
+
+
